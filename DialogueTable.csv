@@ -1,0 +1,5 @@
+﻿,text_Name,text_ID,text_Level,sound_Ref,text,con_Appear,con_After,con_Skip,time_delete
+One,Text1,11,111,/Script/Engine.SoundCue'/Game/Sound/Sound_Script/1/1_CUE/101_Cue.101_Cue',Dialogue1,CON_OVERLAPPING,,TRUE,2
+Two,Text2,22,222,/Script/Engine.SoundCue'/Game/Sound/Sound_Script/1/1_CUE/102_Cue.102_Cue',Dialogue2,CON_INTERACTION,Three,FALSE,3
+Three,Text3,33,333,/Script/Engine.SoundCue'/Game/Sound/Sound_Script/1/1_CUE/103_Cue.103_Cue',Dialogue3,CON_CONTINUOUS,Four,FALSE,4
+Four, Text4,44,444,/Script/Engine.SoundCue'/Game/Sound/Sound_Script/1/1_CUE/104_Cue.104_Cue',Dialogue4,CON_CONTINUOUS,,TRUE,5
