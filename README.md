@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1521" height="891" alt="Image" src="https://github.com/user-attachments/assets/caa01d21-0ff8-4ccd-a0be-3d43f3c86e4c" />
+<img width="1148" height="644" alt="Image" src="https://github.com/user-attachments/assets/c32d4324-d31b-43a6-8a1a-bf98332aa9e7" />
 <br>
 <br>
 <h2>[2023 한아전 팀 프로젝트] Project:Spector</h2>
@@ -44,7 +44,7 @@
 ## Youtube 소개 영상
 기술 소개 및 간략한 플레이<br>
 
-[![Video Label](https://img.youtube.com/vi/RdpMUIE1-ok/0.jpg)](https://www.youtube.com/watch?v=RdpMUIE1-ok)
+[![Video Label](https://img.youtube.com/vi/oH-ZvwtdOl0/0.jpg)](https://youtu.be/oH-ZvwtdOl0)
 
 
 ### 게임 클라이언트: Unreal Engine 5.1
